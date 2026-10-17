@@ -1,0 +1,5 @@
+# Copy this file to config/db.properties and enter your own local credentials.
+# Never commit or share config/db.properties.
+db.url=jdbc:mysql://localhost:3306/sales_customer_db?serverTimezone=Asia/Kolkata&useSSL=false&allowPublicKeyRetrieval=true
+db.username=sales_app
+db.password=REPLACE_WITH_THE_PASSWORD_SET_IN_02_SECURITY_EXTENSION_SQL
