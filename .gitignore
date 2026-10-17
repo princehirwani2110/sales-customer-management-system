@@ -1,0 +1,33 @@
+# Local database credentials
+config/db.properties
+
+# Java compiled files
+*.class
+build/
+
+# macOS files
+.DS_Store
+
+# Editor files
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.swp
+
+# Internal coursework and draft reports
+AST09_Review1_Draft_Complete.pdf
+AST09_Stage5_Report_Sections_8-13.docx
+AST09_Stage5_Report_Sections_8-13.pdf
+FINAL_PROGRESS.md
+PROJECT_STATUS.md
+STAGE*_PROGRESS.md
+STAGE*_PROMPT.txt
+
+# Original assignment and reference material
+references/
+assets/extracted_review0/
+assets/review0_pages/
+assets/review0_image_inventory.txt
+assets/manifest.md
